@@ -1,7 +1,5 @@
 ## Hello, I'm Treloso
 
-## Hello, I'm Treloso
-
 <p align="center">
   <a href="https://git.io/streak-stats" style="text-decoration: none; border: none;">
     <img src="./profile/streak.svg" alt="GitHub Streak" width="60%" height="350px"/>
