@@ -1,7 +1,15 @@
 ## Hello, I'm Treloso
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=trelosoke&theme=dark&ring=FF4073&border=FF4073&fire=FF4073&currStreakLabel=FF4073&stroke=FF4073&sideLabels=FF4073&background=11111A)](https://git.io/streak-stats)
-[![trelosoke's GitHub stats](https://github-stats-extended.vercel.app/api?username=trelosoke&hide_rank=true&bg_color=11111A&title_color=FF4073&text_color=FFFFFF&border_color=FF4073)](https://github.com/stats-organization/github-stats-extended)
+## Hello, I'm Treloso
+
+<p align="center">
+  <a href="https://git.io/streak-stats" style="text-decoration: none; border: none;">
+    <img src="./profile/streak.svg" alt="GitHub Streak" width="60%" height="350px"/>
+  </a>
+  <a href="https://github.com/stats-organization/github-stats-extended" style="text-decoration: none; border: none;">
+    <img src="https://github-stats-extended.vercel.app/api?username=trelosoke&hide_rank=true&bg_color=11111A&title_color=FF4073&text_color=FFFFFF&border_color=FF4073" alt="GitHub Stats" width="35%" height="350px"/>
+  </a>
+</p>
 
 ### What I can do:
 
