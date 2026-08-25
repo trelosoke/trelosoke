@@ -11,7 +11,7 @@
 
 ### What I can do:
 
-- Build web pages with HTML, CSS, and JavaScript
+- Build web pages with React
 
 - Structure code with TypeScript
 
