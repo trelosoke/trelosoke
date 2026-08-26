@@ -58,6 +58,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
 </p>
 
+<p align="center">
+  <img src="https://wakatime.com/share/@a477014b-996d-4bf7-b486-2acdfc1a6e6f/eca5885b-6ceb-467b-bbbd-d03149e23ade.svg" height="400">
+</p>
+
 ## 🌐 Social
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-da-silva-933480408/)
