@@ -19,7 +19,7 @@
 
 - Develop VS Code extensions
 
-- Write unit tests with Node.js and Vitest
+- Write unit and integration tests with Node.js and Vitest
 
 - Work with Canvas for 2D rendering
 
