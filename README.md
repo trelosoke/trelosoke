@@ -29,7 +29,7 @@
 
 - [CallAlly](https://github.com/trelosoke/call-ally) — Ticket management system for daily tasks and issues
 
-- [Da Guayaba](https://github.com/trelosoke/da-guayaba) — C++ audio synth
+- [Da Guayaba](https://github.com/trelosoke/da-guayaba) — C++ audio synth *(learning project: digital audio, signal path, sampling theorem and waveforms)*
 
 ## 🛠️ Technologies I work with
 
