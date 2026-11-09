@@ -9,19 +9,19 @@
   </a>
 </p>
 
-### What I can do:
+### What I can do
 
-- Build web pages with React
-
-- Structure code with TypeScript
-
-- Build back-end archtecture with Express and Node.js
-
-- Develop VS Code extensions
-
-- Write unit and integration tests with Node.js and Vitest
-
-- Work with Canvas for 2D rendering
+- **Build full-stack web apps** — React + TypeScript front end on an Express/Node REST API, with a shared, typed contract between client and server. *(CallAlly)*
+- 
+- **Model and persist data with Prisma** — SQLite schema, migrations, and a data-access service layer kept testable through dependency injection. *(CallAlly)*
+- 
+- **Test and automate delivery** — Vitest unit tests and Supertest API integration tests against an isolated database, run with typecheck and build on GitHub Actions. *(CallAlly, MyDeltabuddies)*
+- 
+- **Develop VS Code extensions** — sidebar Webview views, extension-host ↔ webview messaging, and startup config validation. *(MyDeltabuddies)*
+- 
+- **Build interactive 2D interfaces** — Canvas rendering with a requestAnimationFrame game loop, sprite state machines, and Y-sorted drawing. *(MyDeltabuddies)*
+- 
+- **Document and ship with a real workflow** — bilingual READMEs, issues/milestones, and pull requests. *(all projects)*
 
 ### What I'm working on:
 
